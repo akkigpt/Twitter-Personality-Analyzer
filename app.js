@@ -16,13 +16,13 @@ require('./config/express')(app);
 // Create the service wrapper
 var personalityInsights = watson.personality_insights({
   version: 'v2',
-  username: '82059884-680a-4320-b68b-742a466f5d86',
-  password: '592Dq8yukNMg'
+  username: '', // Insert your Watson credentials here
+  password: ''
 });
 
 var T = new Twit({
-  consumer_key: '7k06bWlOPOkE3g3nwzPd0gIoC',
-  consumer_secret: '0gzp0gtWoWyTexWfUbZb9ZLGX4DhhVPs5O2pkM8BP4Bt5zOuw8',
+  consumer_key: '', // Insert your Twitter key here
+  consumer_secret: '',
   app_only_auth: true
 })
 
