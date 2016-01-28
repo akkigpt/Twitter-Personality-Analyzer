@@ -3,7 +3,7 @@ I made this project during the CodeRed hackathon in 2015. This project fetches t
 
 This project is written entirely in Javascript and node.js. It took around 14 hours to complete.
 
-# How to use:
+# How to set up:
 
  1. Go to app.js and insert your Twitter API and Watson API credentials in the specified fields.
  2. Start the application using `node app.js`
