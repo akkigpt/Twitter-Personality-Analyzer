@@ -15,3 +15,7 @@ This project is written entirely in Javascript and node.js. It took around 14 ho
  1. Make sure that node.js is installed on your operating system
  2. Go to app.js and insert your Twitter API and Watson API credentials in the specified fields.
  2. Open the command line and start the application using `node app.js`
+
+----------
+
+Edit: Thank you IBM for using my Twitter idea as a front page demo on you Watson personality insights page.
