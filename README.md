@@ -19,3 +19,4 @@ This project is written entirely in Javascript and node.js. It took around 14 ho
 ----------
 
 Edit: Thank you IBM for using my Twitter idea as a front page demo on the Watson personality insights page.
+https://personality-insights-livedemo.mybluemix.net/
